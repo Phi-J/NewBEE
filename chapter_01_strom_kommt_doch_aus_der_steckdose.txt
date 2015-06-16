@@ -1,0 +1,37 @@
+Wenn es Euch so geht wie mir, dann habt Ihr in der Schule eventuell mal gehört, dass Strom zwar durchaus aus der Steckdose kommt, aber 
+leider nicht durch magische (oder kosmische) Kräfte dort hinein gelangt.
+
+Ich trage hier mal mein Halbwissen über Strom und dessen Erzeugung zusammen. Mein Ziel ist es ja, aus diesem Halbwissen, nutzen für den 
+Alltag zu ziehen. Dazu erst mal reflektieren, was ich "weiß" um dann eines besseren Belehrt zu werden.
+
+Diese Liste ist mehr ein Brainstorming, als ein elaboriertes Werk.
+
+0. Null heißt: es fließt kein Strom in der IT
+1. Strom kommt doch aus der Steckdose (zumindest Daheim)
+2. Es gibt Gleichstrom und Wechselstrom. Gleichstrom kommt aus der Batterie und Wechselstrom aus der Steckdose.
+3. Wechselstrom wird in deutschen Haushalten mit 24Volt und 50Herz bereitgestellt.
+4. Um Strom über weite Entfernungen zu transportieren wird der Strom auf mehrere 100.000 Volt transformiert.
+5. Die Gewinnung von Strom aus Brennstoffen besteht darin, Wasser zu erhitzen und mit dem Dampf Turbinen zu betreiben.
+6. Wenn die Spannung groß genug ist, kann zwischen zwei elektrischen Leitern eine Spannungsbrücke entstehen (zum Frittieren von CDs und so).
+7. An einem durchschnittlichen Tag strahlt die Sonne mehr Energie auf die Erde, als die Menschheit in Ihrer gesamten Geschichte verbraucht hat.
+8. Solaranlagen haben eine Wirkungsgrad von 12 - 25 Prozent, Windkraftwerke etwa 80%.
+9. Aus einer Kartoffel kann man eine Batterie machen.
+
+Ich vermute, dass ich mit meinem Halbwissen, den Durchschnittlichen Wissensstand zum Thema Energie einigermaßen repräsentiere.
+Aber welches Wissen benötigen wir für die kommenden Herausforderungen und welche Herausforderungen sind das überhaupt?
+
+In unserem heutigen Alltag gibt es wohl nur wenige, die ohne Strom auskommen. Ohne Energie kommt niemand aus. 
+
+1. Energie muss einfach zugänglich sein.
+2. Energie muss in ausreichendem maße vorhanden sein.
+
+Wie bekommen wir genug energie zu jedem verbraucher?
+
+
+
+0. Was ist Energie?
+1. Woher kommt die Energie?
+2. Wo verbrauchen wir Energie und in welchem Maße?
+3. Wie kommt die Energie dort hin, wo wir sie brauchen?
+
+
